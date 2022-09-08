@@ -2,6 +2,6 @@
 
 /* Programa inicial */
 int main(){
-	printf( "kkHola.\n");
+	printf( Hola.\n");
 	printf("Este es mi primer programa en C\n");
 }
